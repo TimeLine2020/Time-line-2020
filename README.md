@@ -34,5 +34,15 @@
 ## 구현
 
 1. `MSA` + `RESTful` + `Docker container`, `Cloud` 기반
+
+
+
 2. 분산 네트워크 `load Balancing` 제공 및 무중단/ 테스팅 / 자동배포
-3. 
+
+
+## 일정
+> 3.14 - 4.14 (4주)
+- 수요일 중간점검, 토요일 자료 공유(2개 document)
+상원 : DB, DevOps 
+도윤 : Kafka, DevOps 
+민욱 : Kafka, DB
