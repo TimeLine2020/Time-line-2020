@@ -31,18 +31,16 @@
 2. 로그인 / 회원가입
 3. 친구 추가 / 친구 목록 / 친구 허용
 
+
 ## 구현
 
 1. `MSA` + `RESTful` + `Docker container`, `Cloud` 기반
-
-
-
 2. 분산 네트워크 `load Balancing` 제공 및 무중단/ 테스팅 / 자동배포
 
 
 ## 일정
-> 3.14 - 4.14 (4주)
-- 수요일 중간점검, 토요일 자료 공유(2개 document)
-상원 : DB, DevOps 
-도윤 : Kafka, DevOps 
-민욱 : Kafka, DB
+> 3.14 - 4.14 (4주), 매주 중간점검(수), 최종 학습자료 공유(document x 2, (토))
+- 기반 지식 정리
+  - 상원 : `DB`, `DevOps`
+  - 도윤 : `Kafka`, `DevOps` 
+  - 민욱 : `Kafka`, `DB`
