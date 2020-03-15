@@ -31,6 +31,7 @@
 2. 로그인 / 회원가입
 3. 친구 추가 / 친구 목록 / 친구 허용
 
+
 ## 구현
 
 1. `MSA` + `RESTful` + `Docker container`, `Cloud` 기반
@@ -40,7 +41,7 @@
 ### 개발 원칙
 
 
-#### DDD
+#### 1. DDD
 
 
 - Aggregate vs Lazy_loading
